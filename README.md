@@ -1,12 +1,13 @@
 # Hello There, Welcome To My Profile, My Name Is Prem Saha. 🎧
 
-**I am a 1st year student at Netaji Subhash Engineering College(NSEC).**
+**I am a student at Netaji Subhash Engineering College(NSEC).**
 
-**I am pursing B.Tech in Information Technology.**
+**I am pursing B.Tech in Computer Science & Engineering.**
 
 ## Academic Details📚
 
-**Passed 10+2 from North Point Senior Secondary Boarding School(CBSE).**
+**Matriculate from North Point Senior Secondary Boarding School(CBSE).**
+**Intermediate from North Point Senior Secondary Boarding School(CBSE).**
 
 ## Language Expertise💻
 
@@ -15,6 +16,7 @@
 | 1. | C |
 | 2. | SQL |
 | 3. | HTML |
+| 4. | Java |
 
 ## Linguistic Expertise🗣️
 
