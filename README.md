@@ -14,9 +14,10 @@
 | S.No | Language |
 |---|---|
 | 1. | C |
-| 2. | SQL |
+| 2. | Java |
 | 3. | HTML |
-| 4. | Java |
+| 4. | CSS |
+| 5. | Javascript |
 
 ## Linguistic Expertise🗣️
 
